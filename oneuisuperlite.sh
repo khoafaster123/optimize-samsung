@@ -9,6 +9,14 @@ sleep 0.2
 echo "====================================="
 sleep 2
 hidden_packages=(
+"com.samsung.android.kgclient"
+"com.samsung.knox.securefolder"
+"com.samsung.android.brightnessbackupservice"
+"com.samsung.android.app.assistantmenu"
+"com.samsung.android.bbc.bbcagent"
+"com.samsung.android.knox.containeragent"
+"com.samsung.android.provider.filterprovider"
+"com.android.theme.icon_pack.circular.systemui"
 "com.samsung.android.app.talkback"
 "com.google.android.apps.turbo"
 "com.android.nfc"
